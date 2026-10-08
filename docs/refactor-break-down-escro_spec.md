@@ -1,4 +1,4 @@
-# Technical Specification: Refactor: Break down escrow-admin-panel.tsx (1687 LOC) into compound components + providers (RORO/composition)
+# Technical Specification: Escrow admin panel component and provider architecture (RORO/composition)
 
 ## Architectural Overview
 Technical documentation and modular design specification for **kindfi** covering issue #806.
